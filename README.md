@@ -4,28 +4,28 @@ Some of these are yearly conferences, some of them have no predictable upload sc
 
 # C++ Conferance Talks
 
-| Channel               | URL                                              | Notes                                                                  |
-| --------------------- | ------------------------------------------------ | ---------------------------------------------------------------------- |
-| CppCon                | https://www.youtube.com/@CppCon                  |                                                                        |
-| CppNow                | https://www.youtube.com/@CppNow                  |                                                                        |
-| cpponsea              | https://www.youtube.com/@cpponsea                |                                                                        |
-| CppNorth              | https://www.youtube.com/@cppnorth                |                                                                        |
-| C++ London            | https://www.youtube.com/@cpplondon               |                                                                        |
-| code::dive conference | https://www.youtube.com/@codediveconference      |                                                                        |
-| Using std::cpp        | https://www.youtube.com/@usingstdcpp7242         |                                                                        |
-| Meeting Cpp           | https://www.youtube.com/@MeetingCPP              |                                                                        |
-| NWCPP                 | https://www.youtube.com/@NWCPP                   |                                                                        |
-| CoreCppIL             | https://www.youtube.com/@corecpp                 |                                                                        |
-| C++Online             | https://www.youtube.com/@CppOnline               | Online-only talks.                                                     |
-| cppzurich             | https://www.youtube.com/@cppzurich-xx3rh         |                                                                        |
-| ACCU Conference       | https://www.youtube.com/@ACCUConf                | Not just C++.                                                          |
-| NDC Conferences       | https://www.youtube.com/@NDC                     | Not just C++. More general software development, not just programming. |
-| C++ Russia            | https://www.youtube.com/@CppRussiaConf           | Mostly Russian but with occasional talks in English.                   |
-| Utah Cpp Programmers  | https://www.youtube.com/@UtahCppProgrammers      | Online-only talks, mostly (all?) from a single guy.                    |
-| CopperSpice           | https://www.youtube.com/@CopperSpice             | Sporadic, online-only talks.                                           |
-| CPPP Conference       | https://www.youtube.com/@cpppconference9838      |                                                                        |
-| OsloCpp               | https://www.youtube.com/@oslocpp                 |                                                                        |
-| C++ Serbia            | https://www.youtube.com/@cppserbia               |                                                                        |
+| Channel               | URL                                              | Notes                                                                                 |
+| --------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| CppCon                | https://www.youtube.com/@CppCon                  |                                                                                       |
+| CppNow                | https://www.youtube.com/@CppNow                  |                                                                                       |
+| cpponsea              | https://www.youtube.com/@cpponsea                |                                                                                       |
+| CppNorth              | https://www.youtube.com/@cppnorth                |                                                                                       |
+| C++ London            | https://www.youtube.com/@cpplondon               |                                                                                       |
+| code::dive conference | https://www.youtube.com/@codediveconference      |                                                                                       |
+| Using std::cpp        | https://www.youtube.com/@usingstdcpp7242         |                                                                                       |
+| Meeting Cpp           | https://www.youtube.com/@MeetingCPP              | Turns into an online interview channel while the physical conference isn't happening. |
+| NWCPP                 | https://www.youtube.com/@NWCPP                   |                                                                                       |
+| CoreCppIL             | https://www.youtube.com/@corecpp                 |                                                                                       |
+| C++Online             | https://www.youtube.com/@CppOnline               | Online-only talks.                                                                    |
+| cppzurich             | https://www.youtube.com/@cppzurich-xx3rh         |                                                                                       |
+| ACCU Conference       | https://www.youtube.com/@ACCUConf                | Not just C++.                                                                         |
+| NDC Conferences       | https://www.youtube.com/@NDC                     | Not just C++. More general software development, not just programming.                |
+| C++ Russia            | https://www.youtube.com/@CppRussiaConf           | Mostly Russian but with occasional talks in English.                                  |
+| Utah Cpp Programmers  | https://www.youtube.com/@UtahCppProgrammers      | Online-only talks, mostly (all?) from a single guy.                                   |
+| CopperSpice           | https://www.youtube.com/@CopperSpice             | Sporadic, online-only talks.                                                          |
+| CPPP Conference       | https://www.youtube.com/@cpppconference9838      |                                                                                       |
+| OsloCpp               | https://www.youtube.com/@oslocpp                 |                                                                                       |
+| C++ Serbia            | https://www.youtube.com/@cppserbia               |                                                                                       |
 
 # Podcasts and other non-talk channels
 | Channel                      | URL                                  | Notes                                                 |
