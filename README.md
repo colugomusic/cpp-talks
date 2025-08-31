@@ -2,7 +2,7 @@ These are manually sorted by a vague criteria of relevance + value but don't rea
 
 Some of these are yearly conferences, some of them have no predictable upload schedule. Some of them are dead but the channel still has good/relevant videos on it. If you want to have a fairly steady stream of incoming talks to check out then subscribe to all of them and never be not-bored again.
 
-# C++ Conferance Talks
+# C++ Conference Talks
 
 | Channel               | URL                                              | Notes                                                                                 |
 | --------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- |
