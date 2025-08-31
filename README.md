@@ -9,11 +9,11 @@ Some of these are yearly conferences, some of them have no predictable upload sc
 | CppCon                | https://www.youtube.com/@CppCon                  |                                                                                       |
 | CppNow                | https://www.youtube.com/@CppNow                  |                                                                                       |
 | cpponsea              | https://www.youtube.com/@cpponsea                |                                                                                       |
-| CppNorth              | https://www.youtube.com/@cppnorth                |                                                                                       |
 | C++ London            | https://www.youtube.com/@cpplondon               |                                                                                       |
 | code::dive conference | https://www.youtube.com/@codediveconference      |                                                                                       |
 | Using std::cpp        | https://www.youtube.com/@usingstdcpp7242         |                                                                                       |
 | Meeting Cpp           | https://www.youtube.com/@MeetingCPP              | Turns into an online interview channel while the physical conference isn't happening. |
+| CppNorth              | https://www.youtube.com/@cppnorth                |                                                                                       |
 | NWCPP                 | https://www.youtube.com/@NWCPP                   |                                                                                       |
 | CoreCppIL             | https://www.youtube.com/@corecpp                 |                                                                                       |
 | C++Online             | https://www.youtube.com/@CppOnline               | Online-only talks.                                                                    |
