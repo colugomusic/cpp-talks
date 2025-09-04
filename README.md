@@ -17,6 +17,7 @@ Some of these are yearly conferences, some of them have no predictable upload sc
 | NWCPP                 | https://www.youtube.com/@NWCPP                   |                                                                                       |
 | CoreCppIL             | https://www.youtube.com/@corecpp                 |                                                                                       |
 | C++Online             | https://www.youtube.com/@CppOnline               | Online-only talks.                                                                    |
+| SwedenCpp             | https://www.youtube.com/@SwedenCpp               |                                                                                       |
 | cppzurich             | https://www.youtube.com/@cppzurich-xx3rh         |                                                                                       |
 | ACCU Conference       | https://www.youtube.com/@ACCUConf                | Not just C++.                                                                         |
 | NDC Conferences       | https://www.youtube.com/@NDC                     | Not just C++. More general software development, not just programming.                |
