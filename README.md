@@ -15,6 +15,7 @@ Some of these are yearly conferences, some of them have no predictable upload sc
 | Meeting Cpp           | https://www.youtube.com/@MeetingCPP              | Turns into an online interview channel while the physical conference isn't happening. |
 | CppNorth              | https://www.youtube.com/@cppnorth                |                                                                                       |
 | NWCPP                 | https://www.youtube.com/@NWCPP                   |                                                                                       |
+| cppunderthesea        | https://www.youtube.com/@cppunderthesea          |                                                                                       |
 | CoreCppIL             | https://www.youtube.com/@corecpp                 |                                                                                       |
 | C++Online             | https://www.youtube.com/@CppOnline               | Online-only talks.                                                                    |
 | SwedenCpp             | https://www.youtube.com/@SwedenCpp               |                                                                                       |
