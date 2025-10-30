@@ -18,6 +18,7 @@ Some of these are yearly conferences, some of them have no predictable upload sc
 | cppunderthesea        | https://www.youtube.com/@cppunderthesea          |                                                                                       |
 | CoreCppIL             | https://www.youtube.com/@corecpp                 |                                                                                       |
 | C++Online             | https://www.youtube.com/@CppOnline               | Online-only talks.                                                                    |
+| Italian Cpp Community | https://www.youtube.com/@ItalianCppCommunity     |                                                                                       |
 | SwedenCpp             | https://www.youtube.com/@SwedenCpp               |                                                                                       |
 | cppzurich             | https://www.youtube.com/@cppzurich-xx3rh         |                                                                                       |
 | ACCU Conference       | https://www.youtube.com/@ACCUConf                | Not just C++.                                                                         |
